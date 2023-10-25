@@ -5,6 +5,12 @@
 Website with responsive layout, modal windows, dark and light theme,
 authorization and pagination, using API services for searching and buying books.
 
+The website contains 2 pages:
+
+1. Home page - page with the most populars from each category and ability to see
+   all books in each category;
+2. Shopping page - page with books, that user has added to cart
+
 ## Technology stack
 
 - HTML5
