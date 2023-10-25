@@ -1,4 +1,4 @@
-<svg class="logo-icon"><use href="/src/images/symbol-defs.svg#icon-logo-icon"></use></svg>
+<img src="./src/images/logo.png" alt="Book Shelf logo">
 
 # Book shelf website
 
